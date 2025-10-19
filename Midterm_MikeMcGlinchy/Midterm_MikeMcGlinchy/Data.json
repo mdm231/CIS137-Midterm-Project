@@ -1,0 +1,81 @@
+  [
+    {
+        
+        "id": "EF1CCC67-2345-0075",
+        "name": "Cards",
+        "players": [
+        {
+        "id": "aa32jj887hhg55",
+        "name": "Pete Rose",
+        "description": "1969 Topps Deckle Edge Pete Rose. This set consists of 33 cards, each measuring 2-1/4 by 3-1/4 inches, that were inserted into packs of the 1969 regular issue. The set derives its name from the scalloped edges.",
+        "imageName": "PeteRose69",
+        "price": "$28"
+        },
+        {
+        "id": "bb32jj887hhg77",
+        "name": "Cal Ripken",
+        "description": "1982 Topps Cal Ripken Rookie card. The 1982 Topps set consists of 792 cards measuring 2-1/2 by 3-1/2 inches. At the time, this set marked Topps' largest set offering.",
+        "imageName": "CalRipken82",
+        "price": "$60"
+        },
+        {
+        "id": "cc32jj887hhg66",
+        "name": "Hank Aaron",
+        "description": "1962 Post Cereal Hank Aaron. This set consists of 200 cards cut from the back of cereal boxes and measure 2-1/2 by 3-1/2 inches. Some of the cards can be very scarce.",
+        "imageName": "Aaron62Post",
+        "price": "$15"
+        },
+        {
+        "id": "dd32jj887hhg88",
+        "name": "Willie McCovey",
+        "description": "1969 Topps Deckle Edge Willie McCovey. This set consists of 33 cards, each measuring 2-1/4 by 3-1/4 inches, that were inserted into packs of the 1969 regular issue. The set derives its name from the scalloped edges.",
+        "imageName": "McCovey69",
+        "price": "$35"
+        },
+        {
+        "id": "ee32jj887hhg99",
+        "name": "O.J. Simpson",
+        "description": "1970 Topps Football O.J. Simpson. The set consists of 263 cards, each measuring 2-1/2 by 3-1/2 inches. This is OJ's rookie card. He had a very slashing running style.",
+        "imageName": "OJSimpson70",
+        "price": "$33"
+        },
+        {
+        "id": "ff32jj887hhg99",
+        "name": "Sandy Koufax",
+        "description": "1966 Topps Sandy Koufax. This was Sandy's last card, since he retired after the 1966 season. The set consists of 598 cards, each measuring 2-1/2 by 3-1/2 inches.",
+        "imageName": "Koufax66",
+        "price": "$33"
+        },
+        {
+        "id": "gg32jj887hhg99",
+        "name": "Juan Marichal",
+        "description": "1971 Topps Juan Marichal. The set consists of 752 cards and measure 2-1/2 by 3-1/2 inches. The black border is especially susceptible to chipping and wear, thus PSA mint value 10's are rare.",
+        "imageName": "Marichal71",
+        "price": "$70"
+        },
+        {
+        "id": "hh32jj887hhg99",
+        "name": "Barry Bonds",
+        "description": "1986 Topps Traded Barry Bonds. This is Bonds' rookie card. The set consists of 132 cards, and was only available as a complete set. They measure the usual 2-1/2 by 3-1/2 inches.",
+        "imageName": "Bonds86TT",
+        "price": "$30"
+        },
+        {
+        "id": "ii32jj887hhg99",
+        "name": "Willie Mays",
+        "description": "1960 Topps All Star Willie Mays. This set is a subset of 22 cards that highlight top players and were released at the end of the regular set numbering 551-572. For the first time, Topps issued a horizontal design for the entire set.",
+        "imageName": "Mays61",
+        "price": "$63"
+        },
+        {
+        "id": "jj32jj887hhg99",
+        "name": "Joe Morgan",
+        "description": "1973 Topps Joe Morgan. This set consists of 660 cards and measure 2-1/2 by 3-1/2 inches. It was the last set issued in a mult-series format.",
+        "imageName": "JoeMorgan73",
+        "price": "$3"       }
+]
+}
+]
+
+
+
